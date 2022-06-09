@@ -15,5 +15,7 @@ public class set {
 
         System.out.println(hs);
         System.out.println(hs.size());
+        
+        
     }
 }
